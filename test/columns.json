@@ -1,0 +1,23 @@
+[
+  "nccCampaignId",
+  "customerId",
+  "name",
+  "userLock",
+  "campaignTp",
+  "periodEndDt",
+  "periodStartDt",
+  "deliveryMethod",
+  "trackingUrl",
+  "trackingMode",
+  "usePeriod",
+  "dailyBudget",
+  "useDailyBudget",
+  "totalChargeCost",
+  "status",
+  "statusReason",
+  "expectCost",
+  "migType",
+  "delFlag",
+  "regTm",
+  "editTm"
+  ]
